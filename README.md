@@ -6,7 +6,6 @@
 
 I build reliable APIs, business systems, and modern web applications.
 
-[![GitHub](https://img.shields.io/badge/GitHub-sonsonyyy-181717?style=for-the-badge&logo=github)](https://github.com/sonsonyyy)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Erickson_Salangsang-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/erickson-salangsang-4857391a9/)
 [![Email](https://img.shields.io/badge/Email-salangsangerickson%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salangsangerickson@gmail.com)
 
@@ -16,9 +15,7 @@ I build reliable APIs, business systems, and modern web applications.
 
 I'm a Full Stack Software Engineer from Mabalacat, Philippines, with **8 years of commercial experience** building API-driven products, admin dashboards, billing systems, and responsive web applications.
 
-My core background is in **PHP, Laravel, Slim PHP, React, Vue.js, and TypeScript**, supported by hands-on experience with databases, cloud services, testing, CI/CD, and production support. I have owned features from requirements through implementation and handoff, modernized legacy code, optimized APIs and database queries, reviewed code, and mentored other developers.
-
-I'm currently expanding my **NestJS** expertise. I also use **Claude Code, OpenAI Codex, and GitHub Copilot in VS Code** to support planning, implementation, debugging, code review, documentation, and test strategy while keeping engineering judgment and code quality at the center.
+My core background is in **PHP, Laravel, Slim PHP, ExpressJS, NestJS, React, Vue.js, and TypeScript**, supported by hands-on experience with databases, cloud services, testing, CI/CD, and production support. I have owned features from requirements through implementation and handoff, modernized legacy code, optimized APIs and database queries, reviewed code, and mentored other developers. I also use **Claude Code, OpenAI Codex, and GitHub Copilot in VS Code** to support planning, implementation, debugging, code review, documentation, and test strategy while keeping engineering judgment and code quality at the center.
 
 ## Tech Stack
 
